@@ -1,0 +1,1 @@
+An implementation of common algorithms in rust. My goal is to only use std and external crates for scaffolding and testing
